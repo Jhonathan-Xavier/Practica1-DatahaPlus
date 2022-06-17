@@ -1,0 +1,17 @@
+{
+  "name": "ekgmvqu-12qcx7s",
+  "hash": "UU5qbtLx8TYLDKEVqFtqKlRBNa9jv9lvS/QI4FubCoo=",
+  "description": "Image Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "C:\\Users\\Jhona\\Desktop\\Datha+\\Practica1\\next-serveless\\.serverless_nextjs\\image-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::816694965331:role/ekgmvqu-69aetl5"
+  },
+  "arn": "arn:aws:lambda:us-east-1:816694965331:function:ekgmvqu-12qcx7s",
+  "region": "us-east-1"
+}
