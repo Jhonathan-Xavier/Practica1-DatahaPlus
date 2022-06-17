@@ -1,5 +1,5 @@
 import {ChangeEvent, useState} from "react";
-import {object} from "prop-types";
+
 
 //1) Creamos un formulario
 export const Formulario = () => {
@@ -17,6 +17,7 @@ export const Formulario = () => {
             [name] : value
         })
     }
+
 
   return(
       <div>
