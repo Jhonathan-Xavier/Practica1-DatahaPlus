@@ -17,7 +17,7 @@ export const Usuario = () => {
 
   return(
       <div>
-        <h3>Usuario: useState</h3>
+        <h2>Usuario: useState</h2>
         <button onClick={Login}>Login</button>
         <pre>{JSON.stringify(user)}</pre>
       </div>
