@@ -4,6 +4,7 @@ import {Usuario} from "../src/components/Usuario";
 import {TimerPadre} from "../src/components/TimerPadre";
 import {ContadorRed} from "../src/components/Reducer";
 import {Formulario} from "../src/components/Formulario";
+import {Formulario2} from "../src/components/Formulario2";
 
 const Home: NextPage = () => {
   return (
@@ -21,6 +22,7 @@ const Home: NextPage = () => {
 
         <h3>Hooks</h3>
         <Formulario/>
+        <Formulario2/>
     </div>
   )
 }
